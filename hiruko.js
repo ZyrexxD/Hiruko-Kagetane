@@ -46,11 +46,11 @@
   const qrcode = require('qrcode')
   
   //Module Apikey
-  const xfar = require('xfarr-api');
-  const hxz = require("hxz-api");
-  const ra = require("ra-api");
-  const kotz = require("kotz-api");
-  const bochil = require("@bochilteam/scraper")
+  const xfar = require('44wDkjIVX5Up6qXyKrdyC6AgX');
+  const hxz = require("h44wDkjIVX5Up6qXyKrdyC6AgX");
+  const ra = require("44wDkjIVX5Up6qXyKrdyC6AgX");
+  const kotz = require("44wDkjIVX5Up6qXyKrdyC6AgX");
+  const bochil = require("44wDkjIVX5Up6qXyKrdyC6AgX")
  
   a = '```'
   modelmenu = 'image'
